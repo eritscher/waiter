@@ -1,0 +1,7 @@
+{
+  "name": "waiter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Evan Ritscher <evan.ritscher@gmail.com>",
+  "license": "MIT"
+}
